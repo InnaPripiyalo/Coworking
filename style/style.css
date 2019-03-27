@@ -48,10 +48,6 @@ button:hover{
     height: 100%;
 }
 
-.bg-cover{
-    background-size: cover;
-}
-
 header{
     height: auto;
     position: fixed;
